@@ -1,0 +1,10 @@
+Security analysis on pmuBage data:
+
+The pmuBAGE dataset is a synthetic, high-dimensional dataset designed for studying phasor measurement unit (PMU) events, focusing on frequency and voltage anomalies. It includes 84 frequency and 620 voltage events organized in tensors containing real power,
+reactive power, voltage magnitude, and frequency measurements over 600 time steps at 30 Hz. This structured dataset provides a rich foundation for investigating complex temporal and spatial patterns associated with power system dynamics.
+In this paper, we aim to develop and integrate  a resilient Intrusion Detection System (IDS) tailored for cybersecurity analysis in critical power systems by exploring advanced techniques to identify, mitigate, and prevent cyberattacks such as
+false data injection, replay attacks, and denial-of-service disruptions. The pmuBAGE dataset is a tool for advancing the security and reliability of smart grids and power infrastructures by combining state-of-the-art machine learning algorithms 
+with privacy-preserving methodologies. 
+
+Reference paper:
+Foggo, Brandon, Koji Yamashita, and Nanpeng Yu. "pmuBAGE: The Benchmarking Assortment of Generated PMU Data for Power System Events--Part I: Overview and Results." arXiv preprint arXiv:2204.01095 (2022).
