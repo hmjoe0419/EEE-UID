@@ -1,2 +1,2 @@
-# EEE
-Project repository for EEE
+# EEE + UID
+Project repository for EEE AND UID
